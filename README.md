@@ -2,7 +2,7 @@
 </br>
 
 <div align="center">
-<img src="SocialLogo/Arpan.gif?raw=true" alt="Hello Coders" width="1000"/> 
+<img src="SocialLogo/Arpan.gif?raw=true" height="400" alt="Hello Coders"/> 
 </div>
 
 <!-- <div align="center">
