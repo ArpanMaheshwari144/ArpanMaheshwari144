@@ -52,6 +52,7 @@
 <a href="https://dev.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/emoji/48/000000/atom-symbol-emoji.png" alt="VSCode" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/240/000000/intellij-idea.png" alt="Intellij-Idea" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/240/000000/pycharm.png" alt="Pycharm" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.icons8.com/color/240/000000/windows-10.png" alt="Windows" width="40" height="40"/> </a>
