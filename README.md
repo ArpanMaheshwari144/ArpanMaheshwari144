@@ -79,7 +79,7 @@
 
 ### :heart: Let's get connected: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Arpan | LinkedIn" height="22px" src="SocialLogo/MyLogo.png" />][website]
+<!-- [<img align="left" alt="Arpan | LinkedIn" height="22px" src="SocialLogo/MyLogo.png" />][website] -->
 [<img align="left" alt="Arpan | LinkedIn" height="22px" src="SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Arpan | Medium" height="22px" src="SocialLogo/Medium.png" />][medium]
 [<img align="left" alt="Arpan | Medium" height="22px" src="SocialLogo/Gmail.png" />][gmail]
