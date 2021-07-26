@@ -92,7 +92,7 @@
 <em>Don't hesitate to get in touch!</em>
 </p>
 
-[website]: https://arpanmaheshwari144.github.io/
+<!-- [website]: https://arpanmaheshwari144.github.io/ -->
 [linkedin]: https://www.linkedin.com/in/arpan-maheshwari-76879a191/
 [medium]: https://medium.com/@maheshwariarpan828
 [gmail]: mailto:maheshwariarpan828@gmail.com
