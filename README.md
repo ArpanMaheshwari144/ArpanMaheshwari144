@@ -1,8 +1,12 @@
 <img src="SocialLogo/greetings.gif" align="center" style="width: 60%"/>
 </br>
 
-<div align="center">
+<!-- <div align="center">
 <img src="SocialLogo/Arpan.gif?raw=true" height="400" alt="Hello Coders"/> 
+</div> -->
+
+<div align="center">
+<img src="SocialLogo/Arpan1.gif?raw=true" height="400" alt="Hello Coders"/> 
 </div>
 
 <!-- <div align="center">
