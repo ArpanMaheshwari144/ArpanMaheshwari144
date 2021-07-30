@@ -79,7 +79,7 @@
 </p>
 
 ## Vibing to : 🎧
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/no9a3i29cidsum4udmoqw63ob)<br>
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/playlists)<br>
 
 ### :heart: Let's get connected: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
