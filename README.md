@@ -91,12 +91,14 @@
 [<img align="left" alt="Arpan | Twitter" height="22px" src="SocialLogo/Twitter.png" />][twitter]
 [<img align="left" alt="Arpan | Facebook" height="22px" src="SocialLogo/Facebook.png" />][facebook]
 [<img align="left" alt="Arpan | Instagram" height="22px" src="SocialLogo/Instagram.png" />][instagram]
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <p align=left>
 <em>Don't hesitate to get in touch!</em>
 </p>
 
 <!-- [website]: https://arpanmaheshwari144.github.io/ -->
+[LinkedIn]: https://www.linkedin.com/in/arpan-maheshwari-76879a191/
 [linkedin]: https://www.linkedin.com/in/arpan-maheshwari-76879a191/
 [medium]: https://medium.com/@maheshwariarpan828
 [gmail]: mailto:maheshwariarpan828@gmail.com
