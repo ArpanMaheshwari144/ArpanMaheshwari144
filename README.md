@@ -91,27 +91,19 @@
 [<img align="left" alt="Arpan | Facebook" height="22px" src="SocialLogo/Facebook.png" />][facebook]
 [<img align="left" alt="Arpan | Instagram" height="22px" src="SocialLogo/Instagram.png" />][instagram]  -->
 
-<a href="https://www.linkedin.com/in/arpan-maheshwari-76879a191/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://medium.com/@maheshwariarpan828">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
-</a>
-<a href="mailto:maheshwariarpan828@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://twitter.com/ArpanMaheshwa10">
-    <img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/arpanmaheshwari144/ ">
-    <img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/ArpanMaheshwari144/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-</a>
-<a href="https://wa.me/7991377996">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+![https://www.linkedin.com/in/arpan-maheshwari-76879a191/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![https://medium.com/@maheshwariarpan828](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)
+
+![mailto:maheshwariarpan828@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+![https://twitter.com/ArpanMaheshwa10](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
+![https://www.instagram.com/arpanmaheshwari144/](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+![https://www.facebook.com/ArpanMaheshwari144/](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
+![https://wa.me/7991377996](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 <p align="right">
 <em>Don't hesitate to get in touch!</em>
