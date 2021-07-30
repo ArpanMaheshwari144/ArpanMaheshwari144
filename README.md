@@ -91,6 +91,10 @@
 [<img align="left" alt="Arpan | Facebook" height="22px" src="SocialLogo/Facebook.png" />][facebook]
 [<img align="left" alt="Arpan | Instagram" height="22px" src="SocialLogo/Instagram.png" />][instagram]  -->
 
+<p align="left">
+<em>Don't hesitate to get in touch!</em>
+</p>
+
 <a href="https://www.linkedin.com/in/arpan-maheshwari-76879a191/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -112,10 +116,6 @@
 <a href="https://wa.me/7991377996">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
-<p align="left">
-<em>Don't hesitate to get in touch!</em>
-</p>
 
 <!-- [linkedin]: https://www.linkedin.com/in/arpan-maheshwari-76879a191/
 [medium]: https://medium.com/@maheshwariarpan828
