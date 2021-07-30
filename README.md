@@ -91,7 +91,7 @@
 [<img align="left" alt="Arpan | Twitter" height="22px" src="SocialLogo/Twitter.png" />][twitter]
 [<img align="left" alt="Arpan | Facebook" height="22px" src="SocialLogo/Facebook.png" />][facebook]
 [<img align="left" alt="Arpan | Instagram" height="22px" src="SocialLogo/Instagram.png" />][instagram]
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[LinkedIn]
 
 <p align=left>
 <em>Don't hesitate to get in touch!</em>
