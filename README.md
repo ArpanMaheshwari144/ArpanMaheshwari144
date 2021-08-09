@@ -119,6 +119,10 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
+<a href="https://wa.me/7991377996">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 <p align="right">
 <em>Don't hesitate to get in touch!</em>
 </p>
