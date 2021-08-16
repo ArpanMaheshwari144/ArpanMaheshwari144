@@ -16,7 +16,7 @@
 
 <h1>𝓗𝓸𝓵𝓪 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
-<h1>Ｉ ａｍ <a href="https://arpanmaheshwari144.github.io/" target="_blank">Ａｒｐａｎ</a> 👨‍💻 </h1>
+<h1>𝓘 𝓪𝓶 <a href="https://arpanmaheshwari144.github.io/" target="_blank">𝓐𝓻𝓹𝓪𝓷</a> 👨‍💻 </h1>
 
 ## 𝓘'𝓶 𝓪 𝓢𝓽𝓾𝓭𝓮𝓷𝓽, 𝓤𝓷𝓭𝓮𝓻𝓰𝓻𝓪𝓭𝓾𝓪𝓽𝓮, 𝓪𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻!
 
