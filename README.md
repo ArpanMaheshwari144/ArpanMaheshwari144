@@ -14,13 +14,13 @@
   <br>
 </div> -->
 
-<h1>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
+<h1>𝓗𝓸𝓵𝓪 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
-<h1>I am <a href="https://arpanmaheshwari144.github.io/" target="_blank">Arpan</a> 👨‍💻 </h1>
+<h1>Ｉ ａｍ <a href="https://arpanmaheshwari144.github.io/" target="_blank">Ａｒｐａｎ</a> 👨‍💻 </h1>
 
-## I'm a Student, Undergraduate, and Developer!
+## 𝓘'𝓶 𝓪 𝓢𝓽𝓾𝓭𝓮𝓷𝓽, 𝓤𝓷𝓭𝓮𝓻𝓰𝓻𝓪𝓭𝓾𝓪𝓽𝓮, 𝓪𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻!
 
-### I'm an enthusiast and a Developer who loves to contribute to the Opensource Community. 
+### 𝓘'𝓶 𝓪𝓷 𝓮𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓪𝓷𝓭 𝓪 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝔀𝓱𝓸 𝓵𝓸𝓿𝓮𝓼 𝓽𝓸 𝓬𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓮 𝓽𝓸 𝓽𝓱𝓮 𝓞𝓹𝓮𝓷𝓼𝓸𝓾𝓻𝓬𝓮 𝓒𝓸𝓶𝓶𝓾𝓷𝓲𝓽𝔂. 
 <br>
 <img align="right" src="SocialLogo/giphy.webp" alt="eatsleepcode" width="300" height="300" />
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
