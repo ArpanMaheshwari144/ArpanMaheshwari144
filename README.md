@@ -83,15 +83,16 @@
 
 ### :heart: Let's get connected: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-<!-- [<img align="left" alt="Arpan | LinkedIn" height="22px" src="SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Arpan | LinkedIn" height="22px" src="SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Arpan | Medium" height="22px" src="SocialLogo/Medium.png" />][medium]
 [<img align="left" alt="Arpan | Medium" height="22px" src="SocialLogo/Gmail.png" />][gmail]
 [<img align="left" alt="Arpan | Whatsapp" height="22px" src="SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="Arpan | Twitter" height="22px" src="SocialLogo/Twitter.png" />][twitter]
 [<img align="left" alt="Arpan | Facebook" height="22px" src="SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Arpan | Instagram" height="22px" src="SocialLogo/Instagram.png" />][instagram]  -->
+[<img align="left" alt="Arpan | Instagram" height="22px" src="SocialLogo/Instagram.png" />][instagram] 
+[<img align="left" alt="Arpan | Instagram" height="22px" src="SocialLogo/Spotify.svg" />][spotify] 
 
-<a href="https://www.linkedin.com/in/arpan-maheshwari-76879a191/">
+<!-- <a href="https://www.linkedin.com/in/arpan-maheshwari-76879a191/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -117,19 +118,20 @@
 
 <a href="https://wa.me/7991377996">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+</a> -->
 
 <p align="right">
 <em>Don't hesitate to get in touch!</em>
 </p>
 
-<!-- [linkedin]: https://www.linkedin.com/in/arpan-maheshwari-76879a191/
+[linkedin]: https://www.linkedin.com/in/arpan-maheshwari-76879a191/
 [medium]: https://medium.com/@maheshwariarpan828
 [gmail]: mailto:maheshwariarpan828@gmail.com
 [whatsapp]: https://wa.me/7991377996
 [twitter]: https://twitter.com/ArpanMaheshwa10
 [facebook]: https://www.facebook.com/ArpanMaheshwari144/
-[instagram]: https://www.instagram.com/arpanmaheshwari144/ -->
+[instagram]: https://www.instagram.com/arpanmaheshwari144/
+[spotify]: https://open.spotify.com/user/no9a3i29cidsum4udmoqw63ob
 
 <hr>
 <p align="center">                           
