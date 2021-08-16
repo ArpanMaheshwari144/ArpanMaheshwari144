@@ -83,14 +83,14 @@
 
 ### :heart: Let's get connected: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Arpan | LinkedIn" height="32" width="32" src="SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Arpan | Medium" height="32" width="32" src="SocialLogo/Medium.png" />][medium]
-[<img align="left" alt="Arpan | Medium" height="32" width="32" src="SocialLogo/Gmail.png" />][gmail]
-[<img align="left" alt="Arpan | Whatsapp" height="32" width="32" src="SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Arpan | Twitter" height="32" width="32" src="SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Arpan | Facebook" height="32" width="32" src="SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Arpan | Instagram" height="32" width="32" src="SocialLogo/Instagram.png" />][instagram] 
-[<img align="left" alt="Arpan | Instagram" height="32" width="32" src="SocialLogo/Spotify.svg" />][spotify] 
+[<img align="left" alt="Arpan | LinkedIn" height="28" width="32" src="SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Arpan | Medium" height="28" width="32" src="SocialLogo/Medium.png" />][medium]
+[<img align="left" alt="Arpan | Medium" height="28" width="32" src="SocialLogo/Gmail.png" />][gmail]
+[<img align="left" alt="Arpan | Whatsapp" height="28" width="32" src="SocialLogo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="Arpan | Twitter" height="28" width="32" src="SocialLogo/Twitter.png" />][twitter]
+[<img align="left" alt="Arpan | Facebook" height="28" width="32" src="SocialLogo/Facebook.png" />][facebook]
+[<img align="left" alt="Arpan | Instagram" height="28" width="32" src="SocialLogo/Instagram.png" />][instagram] 
+[<img align="left" alt="Arpan | Instagram" height="28" width="32" src="SocialLogo/Spotify.svg" />][spotify] 
 
 <!-- <a href="https://www.linkedin.com/in/arpan-maheshwari-76879a191/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
