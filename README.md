@@ -2,7 +2,7 @@
 </br>
 
 <!-- <div align="center">
-<img src="SocialLogo/Arpan.gif?raw=true" height="400" alt="Hello Coders"/> 
+<img src="SocialLogo/Arpan.gif?raw=true" height="400" alt="Hello Coders"/>
 </div> -->
 
 <div align="center">
@@ -20,12 +20,14 @@
 
 ## 𝓘'𝓶 𝓪 𝓢𝓽𝓾𝓭𝓮𝓷𝓽, 𝓤𝓷𝓭𝓮𝓻𝓰𝓻𝓪𝓭𝓾𝓪𝓽𝓮, 𝓪𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻!
 
-### 𝓘'𝓶 𝓪𝓷 𝓮𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓪𝓷𝓭 𝓪 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝔀𝓱𝓸 𝓵𝓸𝓿𝓮𝓼 𝓽𝓸 𝓬𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓮 𝓽𝓸 𝓽𝓱𝓮 𝓞𝓹𝓮𝓷𝓼𝓸𝓾𝓻𝓬𝓮 𝓒𝓸𝓶𝓶𝓾𝓷𝓲𝓽𝔂. 
+### 𝓘'𝓶 𝓪𝓷 𝓮𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓪𝓷𝓭 𝓪 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝔀𝓱𝓸 𝓵𝓸𝓿𝓮𝓼 𝓽𝓸 𝓬𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓮 𝓽𝓸 𝓽𝓱𝓮 𝓞𝓹𝓮𝓷𝓼𝓸𝓾𝓻𝓬𝓮 𝓒𝓸𝓶𝓶𝓾𝓷𝓲𝓽𝔂.
+
 <br>
 <img align="right" src="SocialLogo/giphy.webp" alt="eatsleepcode" width="300" height="300" />
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 # 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒:
+
 - 💻 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 𝓶𝔂 𝓕𝓲𝓷𝓪𝓵 𝓨𝓮𝓪𝓻 𝓟𝓻𝓸𝓳𝓮𝓬𝓽!
 - 🌱 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓟𝓗𝓟.
 - 🚀 𝓐𝓵𝔀𝓪𝔂𝓼 𝓻𝓮𝓪𝓭𝔂 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓯𝓸𝓻 𝓓𝓮𝓿 𝓔𝔁𝓹𝓮𝓻𝓲𝓶𝓮𝓷𝓽𝓼.
@@ -36,13 +38,13 @@
 
 ## :hammer_and_wrench: 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈 𝐼 𝓊𝓈𝑒:
 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a> 
-<a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+<a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
 <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/></a>
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" height="40"/></a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" alt="Django" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
@@ -60,7 +62,7 @@
 <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/emoji/48/000000/atom-symbol-emoji.png" alt="Atom" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.icons8.com/color/240/000000/windows-10.png" alt="Windows" width="40" height="40"/> </a>
- 
+
 ## :heart_decoration: 𝒟𝑒𝓈𝒾𝑔𝓃 𝒶𝓃𝒹 𝒫𝒽𝑜𝓉𝑜 𝐸𝒹𝒾𝓉𝒾𝓃𝑔:
 
 <img width="11%" align="right" alt="GIF" src="SocialLogo/linux.gif?raw=true"/>
@@ -70,8 +72,8 @@
 
 ## :musical_keyboard: 𝒜𝓊𝒹𝒾𝑜 𝒶𝓃𝒹 𝒱𝒾𝒹𝑒𝑜 𝐸𝒹𝒾𝓉𝒾𝓃𝑔:
 
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/adobe-premiere-pro.png" alt="Adobe Premiere Pro" width="40" height="40"/></a> 
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="40" height="40"/></a> 
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/adobe-premiere-pro.png" alt="Adobe Premiere Pro" width="40" height="40"/></a>
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="40" height="40"/></a>
 <a href="https://www.adobe.com/in/products/audition.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-audition.png" alt="Adobe Audition" width="40" height="40"/></a>
 <a href="https://www.audacityteam.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/audacity.png" alt="Audacity" width="40" height="40"/></a>
 
@@ -79,6 +81,7 @@
 </p>
 
 ## 𝒱𝒾𝒷𝒾𝓃𝑔 𝓉𝑜: 🎧
+
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/playlists)<br>
 
 ### :heart: 𝐿𝑒𝓉'𝓈 𝑔𝑒𝓉 𝒸𝑜𝓃𝓃𝑒𝒸𝓉𝑒𝒹: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
@@ -86,11 +89,12 @@
 [<img align="left" alt="Arpan | LinkedIn" height="26" width="27" src="SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Arpan | Medium" height="26" width="27" src="SocialLogo/Medium.png" />][medium]
 [<img align="left" alt="Arpan | Medium" height="26" width="27" src="SocialLogo/Gmail.png" />][gmail]
+[<img align="left" alt="Arpan | Medium" height="26" width="27" src="SocialLogo/Phone.png" />][phone]
 [<img align="left" alt="Arpan | Whatsapp" height="26" width="27" src="SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="Arpan | Twitter" height="26" width="27" src="SocialLogo/Twitter.png" />][twitter]
 [<img align="left" alt="Arpan | Facebook" height="26" width="27" src="SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Arpan | Instagram" height="26" width="27" src="SocialLogo/Instagram.png" />][instagram] 
-[<img align="left" alt="Arpan | Instagram" height="26" width="27" src="SocialLogo/Spotify.svg" />][spotify] 
+[<img align="left" alt="Arpan | Instagram" height="26" width="27" src="SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Arpan | Instagram" height="26" width="27" src="SocialLogo/Spotify.svg" />][spotify]
 
 <!-- <a href="https://www.linkedin.com/in/arpan-maheshwari-76879a191/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
