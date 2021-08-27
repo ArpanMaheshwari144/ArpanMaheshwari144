@@ -131,7 +131,7 @@
 [linkedin]: https://www.linkedin.com/in/arpan-maheshwari-76879a191/
 [medium]: https://medium.com/@maheshwariarpan828
 [gmail]: mailto:maheshwariarpan828@gmail.com
-[phone]: tel:7991377996
+[phone]: https://tel:7991377996
 [whatsapp]: https://wa.me/7991377996
 [twitter]: https://twitter.com/ArpanMaheshwa10
 [facebook]: https://www.facebook.com/ArpanMaheshwari144/
