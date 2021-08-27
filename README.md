@@ -89,7 +89,9 @@
 [<img align="left" alt="Arpan | LinkedIn" height="26" width="27" src="SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Arpan | Medium" height="26" width="27" src="SocialLogo/Medium.png" />][medium]
 [<img align="left" alt="Arpan | Medium" height="26" width="27" src="SocialLogo/Gmail.png" />][gmail]
-[<img align="left" alt="Arpan | Medium" height="26" width="27" src="SocialLogo/Phone.png" />][phone]
+
+<!-- [<img align="left" alt="Arpan | Medium" height="26" width="27" src="SocialLogo/Phone.png" />][phone] -->
+
 [<img align="left" alt="Arpan | Whatsapp" height="26" width="27" src="SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="Arpan | Twitter" height="26" width="27" src="SocialLogo/Twitter.png" />][twitter]
 [<img align="left" alt="Arpan | Facebook" height="26" width="27" src="SocialLogo/Facebook.png" />][facebook]
@@ -131,6 +133,10 @@
 [linkedin]: https://www.linkedin.com/in/arpan-maheshwari-76879a191/
 [medium]: https://medium.com/@maheshwariarpan828
 [gmail]: mailto:maheshwariarpan828@gmail.com
+
+<a href=”tel:7991377996″>
+<img src=”SocialLogo/Phone.png” height="26" width="27" /></a>
+
 [whatsapp]: https://wa.me/7991377996
 [twitter]: https://twitter.com/ArpanMaheshwa10
 [facebook]: https://www.facebook.com/ArpanMaheshwari144/
