@@ -133,11 +133,6 @@
 [linkedin]: https://www.linkedin.com/in/arpan-maheshwari-76879a191/
 [medium]: https://medium.com/@maheshwariarpan828
 [gmail]: mailto:maheshwariarpan828@gmail.com
-
-<a href="https://tel:7991377996">
-<img src="SocialLogo/Phone.png" height="26" width="27" />
-</a>
-
 [whatsapp]: https://wa.me/7991377996
 [twitter]: https://twitter.com/ArpanMaheshwa10
 [facebook]: https://www.facebook.com/ArpanMaheshwari144/
