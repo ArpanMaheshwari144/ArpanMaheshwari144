@@ -134,8 +134,9 @@
 [medium]: https://medium.com/@maheshwariarpan828
 [gmail]: mailto:maheshwariarpan828@gmail.com
 
-<a href=”tel:7991377996″>
-<img src=”SocialLogo/Phone.png” height="26" width="27" /></a>
+<a href="tel:7991377996">
+<img src="SocialLogo/Phone.png" height="26" width="27" />
+</a>
 
 [whatsapp]: https://wa.me/7991377996
 [twitter]: https://twitter.com/ArpanMaheshwa10
