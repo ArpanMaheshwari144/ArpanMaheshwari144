@@ -1,4 +1,4 @@
-<img src="SocialLogo/greetings.gif" align="center" style="width: 60%"/>
+<img src="SocialLogo/greetings.gif" align="center" style="width: 100%"/>
 </br>
 
 <!-- <div align="center">
