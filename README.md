@@ -94,7 +94,7 @@
 [<img align="left" alt="Arpan | Twitter" height="26" width="27" src="SocialLogo/Twitter.png" />][twitter]
 [<img align="left" alt="Arpan | Facebook" height="26" width="27" src="SocialLogo/Facebook.png" />][facebook]
 [<img align="left" alt="Arpan | Spotify" height="26" width="27" src="SocialLogo/Spotify.svg" />][spotify]
-[<img align="left" alt="Arpan | Information" height="26" width="27" src="SocialLogo/Spotify.svg" />][information]
+[<img align="left" alt="Arpan | Information" height="26" width="27" src="SocialLogo/Information.png" />][information]
 
 <!-- <a href="https://www.linkedin.com/in/arpan-maheshwari-76879a191/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
