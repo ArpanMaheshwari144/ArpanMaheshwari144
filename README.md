@@ -26,7 +26,7 @@
 <img align="right" src="SocialLogo/giphy.webp" alt="eatsleepcode" width="300" height="300" />
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-# 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒:
+# 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒:  <img width="7%" alt="GIF" src="SocialLogo/linux.gif?raw=true"/>
 
 - 💻 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 𝓶𝔂 𝓕𝓲𝓷𝓪𝓵 𝓨𝓮𝓪𝓻 𝓟𝓻𝓸𝓳𝓮𝓬𝓽!
 - 🌱 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓟𝓗𝓟.
@@ -88,12 +88,11 @@ They find me attractive so do i 😉.
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="40" height="40"/></a>
 <a href="https://www.adobe.com/in/products/audition.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-audition.png" alt="Adobe Audition" width="40" height="40"/></a>
 <a href="https://www.audacityteam.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/audacity.png" alt="Audacity" width="40" height="40"/></a>
-<img width="11%" align="right" alt="GIF" src="SocialLogo/linux.gif?raw=true"/>
 
 ```
 I am in 💗 with them 😁.
 ```
-
+ 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanmaheshwari144&show_icons=true&locale=en&layout=compact" alt="arpanmaheshwari144" />
 </p>
 
