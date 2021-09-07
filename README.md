@@ -36,7 +36,7 @@
 - 🥅 2021 𝓖𝓸𝓪𝓵𝓼: 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓮 𝓶𝓸𝓻𝓮 𝓽𝓸 𝓞𝓹𝓮𝓷 𝓢𝓸𝓾𝓻𝓬𝓮 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 𝓪𝓷𝓭 𝓵𝓮𝓪𝓻𝓷 𝓪𝓷𝓭 𝔀𝓻𝓲𝓽𝓮 𝓪𝓫𝓸𝓾𝓽 𝓷𝓮𝔀 𝓽𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼.
 - ⚡ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽: 𝓘 𝓵𝓸𝓿𝓮 𝓽𝓸 𝓹𝓵𝓪𝔂 𝓒𝓱𝓮𝓼𝓼 𝓪𝓷𝓭 𝓵𝓲𝓼𝓽𝓮𝓷 𝓜𝓾𝓼𝓲𝓬 𝓪𝓷𝓭 𝓽𝓸 𝓪𝓽𝓽𝓮𝓷𝓭 𝓜𝓮𝓮𝓽𝓾𝓹𝓼 𝓯𝓸𝓻 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 & 𝓒𝓸𝓷𝓯𝓮𝓻𝓮𝓷𝓬𝓮𝓼 𝓯𝓸𝓻 𝓝𝓮𝓽𝔀𝓸𝓻𝓴𝓲𝓷𝓰.
 
-<h3 align="center"><strong> Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</strong> </h3>
+<h3 align="center"><strong> Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</strong> </h3><hr>
 
 <details close>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
@@ -74,9 +74,8 @@ I keep going dates with them 💗, best part no one hates me for going on date w
 
 ## :heart_decoration: 𝒟𝑒𝓈𝒾𝑔𝓃 𝒶𝓃𝒹 𝒫𝒽𝑜𝓉𝑜 𝐸𝒹𝒾𝓉𝒾𝓃𝑔:
 
-<img width="11%" align="right" alt="GIF" src="SocialLogo/linux.gif?raw=true"/>
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/adobe-photoshop.png" alt="Adobe Photoshop" width="40" height="40"/></a> 
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" alt="Adobe Lightroom" width="40" height="40"/></a> 
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/adobe-photoshop.png" alt="Adobe Photoshop" width="40" height="40"/></a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" alt="Adobe Lightroom" width="40" height="40"/></a>
 <a href="https://www.gimp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg" alt="Gimp" width="40" height="40"/></a>
 
 ```
@@ -89,6 +88,7 @@ They find me attractive so do i 😉.
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="40" height="40"/></a>
 <a href="https://www.adobe.com/in/products/audition.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-audition.png" alt="Adobe Audition" width="40" height="40"/></a>
 <a href="https://www.audacityteam.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/audacity.png" alt="Audacity" width="40" height="40"/></a>
+<img width="11%" align="right" alt="GIF" src="SocialLogo/linux.gif?raw=true"/>
 
 ```
 I am in 💗 with them 😁.
