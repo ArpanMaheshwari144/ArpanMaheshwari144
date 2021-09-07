@@ -18,7 +18,7 @@
 
 <h1>𝓘 𝓪𝓶 <a href="https://arpanmaheshwari144.github.io/" target="_blank">𝓐𝓻𝓹𝓪𝓷</a> 👨‍💻 </h1>
 
-## 𝓘'𝓶 𝓪 𝓢𝓽𝓾𝓭𝓮𝓷𝓽, 𝓤𝓷𝓭𝓮𝓻𝓰𝓻𝓪𝓭𝓾𝓪𝓽𝓮, 𝓪𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻!
+## 𝓘'𝓶 𝓪 𝓢𝓽𝓾𝓭𝓮𝓷𝓽, 𝓤𝓷𝓭𝓮𝓻𝓰𝓻𝓪𝓭𝓾𝓪𝓽𝓮, 𝓪𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻!      
 
 ### 𝓘'𝓶 𝓪𝓷 𝓮𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓪𝓷𝓭 𝓪 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝔀𝓱𝓸 𝓵𝓸𝓿𝓮𝓼 𝓽𝓸 𝓬𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓮 𝓽𝓸 𝓽𝓱𝓮 𝓞𝓹𝓮𝓷𝓼𝓸𝓾𝓻𝓬𝓮 𝓒𝓸𝓶𝓶𝓾𝓷𝓲𝓽𝔂.
 
@@ -26,7 +26,7 @@
 <img align="right" src="SocialLogo/giphy.webp" alt="eatsleepcode" width="300" height="300" />
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-# 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒:  <img width="7%" alt="GIF" src="SocialLogo/linux.gif?raw=true"/>
+# 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒:
 
 - 💻 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 𝓶𝔂 𝓕𝓲𝓷𝓪𝓵 𝓨𝓮𝓪𝓻 𝓟𝓻𝓸𝓳𝓮𝓬𝓽!
 - 🌱 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓟𝓗𝓟.
@@ -37,6 +37,8 @@
 - ⚡ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽: 𝓘 𝓵𝓸𝓿𝓮 𝓽𝓸 𝓹𝓵𝓪𝔂 𝓒𝓱𝓮𝓼𝓼 𝓪𝓷𝓭 𝓵𝓲𝓼𝓽𝓮𝓷 𝓜𝓾𝓼𝓲𝓬 𝓪𝓷𝓭 𝓽𝓸 𝓪𝓽𝓽𝓮𝓷𝓭 𝓜𝓮𝓮𝓽𝓾𝓹𝓼 𝓯𝓸𝓻 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 & 𝓒𝓸𝓷𝓯𝓮𝓻𝓮𝓷𝓬𝓮𝓼 𝓯𝓸𝓻 𝓝𝓮𝓽𝔀𝓸𝓻𝓴𝓲𝓷𝓰.
 
 <h3 align="center"><strong> Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</strong> </h3><hr>
+
+<img width="7%" align="right" alt="GIF" src="SocialLogo/linux.gif?raw=true"/>
 
 <details close>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
