@@ -74,7 +74,7 @@
 I keep going dates with them 💗, best part no one hates me for going on date with others 😁.
 ```
 
-## :heart_decoration: 𝒟𝑒𝓈𝒾𝑔𝓃 𝒶𝓃𝒹 𝒫𝒽𝑜𝓉𝑜 𝐸𝒹𝒾𝓉𝒾𝓃𝑔:
+## :heart_decoration: 🎨✂ 𝒟𝑒𝓈𝒾𝑔𝓃 𝒶𝓃𝒹 𝒫𝒽𝑜𝓉𝑜 𝐸𝒹𝒾𝓉𝒾𝓃𝑔:
 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/adobe-photoshop.png" alt="Adobe Photoshop" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" alt="Adobe Lightroom" width="40" height="40"/></a>
