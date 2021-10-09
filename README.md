@@ -95,7 +95,9 @@ They find me attractive so do i 😉.
 I am in 💗 with them 😁.
 ```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanmaheshwari144&show_icons=true&locale=en&layout=compact" alt="arpanmaheshwari144" />
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arpanmaheshwari144&show_icons=true&locale=en" alt="arpanmaheshwari144" /></p>
+  
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanmaheshwari144&show_icons=true&locale=en&layout=compact" alt="arpanmaheshwari144" />
 </p>
 
 ## 𝒱𝒾𝒷𝒾𝓃𝑔 𝓉𝑜: 🎧
@@ -158,7 +160,7 @@ I am in 💗 with them 😁.
 
 <hr>
 <p align="center">                           
-  <img align=center src="https://visitor-badge.glitch.me/badge?page_id=ArpanMaheshwari144" alt="Visitors">                     
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ArpanMaheshwari144" alt="Visitors">                     
 </p>
 <hr>
 
