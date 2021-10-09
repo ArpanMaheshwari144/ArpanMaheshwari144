@@ -94,11 +94,10 @@ They find me attractive so do i 😉.
 ```
 I am in 💗 with them 😁.
 ```
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arpanmaheshwari144&show_icons=true&locale=en" alt="arpanmaheshwari144" /></p>
   
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanmaheshwari144&show_icons=true&locale=en&layout=compact" alt="arpanmaheshwari144" />
 </p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=arpanmaheshwari144&show_icons=true&locale=en" alt="arpanmaheshwari144" /></p>
 
 ## 𝒱𝒾𝒷𝒾𝓃𝑔 𝓉𝑜: 🎧
 
