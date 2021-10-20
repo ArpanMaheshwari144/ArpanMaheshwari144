@@ -94,7 +94,8 @@ They find me attractive so do i 😉.
 ```
 I am in 💗 with them 😁.
 ```
-  
+
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanmaheshwari144&show_icons=true&locale=en&layout=compact&theme=merko" alt="arpanmaheshwari144" />
 </p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=arpanmaheshwari144&show_icons=true&locale=en&theme=merko" alt="arpanmaheshwari144" /></p>
