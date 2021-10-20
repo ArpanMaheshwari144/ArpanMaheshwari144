@@ -38,7 +38,7 @@
 <details close>
 <summary><b>𝓕𝓲𝓷𝓭 𝓸𝓾𝓽 𝔀𝓱𝓸 𝓲 💗?</b> <i>(𝓬𝓵𝓲𝓬𝓴 𝓽𝓸 𝓮𝔁𝓹𝓪𝓷𝓭!)</i></summary>
 
-## :hammer_and_wrench: 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈 𝐼 𝓊𝓈𝑒:
+## 📚🛠 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈 𝐼 𝓊𝓈𝑒:
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
