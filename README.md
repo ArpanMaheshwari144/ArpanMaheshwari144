@@ -9,11 +9,6 @@
 <img src="SocialLogo/Arpan1.gif?raw=true" height="400" alt="Hello Coders"/> 
 </div>
 
-<!-- <div align="center">
-  <img src="SocialLogo/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br>
-</div> -->
-
 <h1>𝓗𝓸𝓵𝓪 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
 <h1>𝓘 𝓪𝓶 <a href="https://arpanmaheshwari144.github.io/" target="_blank">𝓐𝓻𝓹𝓪𝓷</a> 👨‍💻 </h1>
@@ -29,19 +24,19 @@
 # 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒:
 
 - 💻 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 𝓶𝔂 𝓕𝓲𝓷𝓪𝓵 𝓨𝓮𝓪𝓻 𝓟𝓻𝓸𝓳𝓮𝓬𝓽!
-- 🌱 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓟𝓗𝓟.
+- 🌱 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓡𝓮𝓪𝓬𝓽𝓙𝓢.
 - 🚀 𝓐𝓵𝔀𝓪𝔂𝓼 𝓻𝓮𝓪𝓭𝔂 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓯𝓸𝓻 𝓓𝓮𝓿 𝓔𝔁𝓹𝓮𝓻𝓲𝓶𝓮𝓷𝓽𝓼.
 - 👯 𝓘’𝓶 𝓵𝓸𝓸𝓴𝓲𝓷𝓰 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝔀𝓲𝓽𝓱 𝓸𝓽𝓱𝓮𝓻 𝓒𝓸𝓷𝓽𝓮𝓷𝓽 𝓒𝓻𝓮𝓪𝓽𝓸𝓻𝓼.
 - 🎯 "𝓔𝔁𝓹𝓵𝓸𝓻𝓮 :𝓯𝓲𝓻𝓮: 𝓪𝓷𝓭 𝓔𝔁𝓹𝓵𝓸𝓭𝓮 :𝓫𝓸𝓶𝓫: 𝔀𝓲𝓽𝓱 𝓴𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮".
 - 🥅 2021 𝓖𝓸𝓪𝓵𝓼: 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓮 𝓶𝓸𝓻𝓮 𝓽𝓸 𝓞𝓹𝓮𝓷 𝓢𝓸𝓾𝓻𝓬𝓮 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 𝓪𝓷𝓭 𝓵𝓮𝓪𝓻𝓷 𝓪𝓷𝓭 𝔀𝓻𝓲𝓽𝓮 𝓪𝓫𝓸𝓾𝓽 𝓷𝓮𝔀 𝓽𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼.
 - ⚡ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽: 𝓘 𝓵𝓸𝓿𝓮 𝓽𝓸 𝓹𝓵𝓪𝔂 𝓒𝓱𝓮𝓼𝓼 𝓪𝓷𝓭 𝓵𝓲𝓼𝓽𝓮𝓷 𝓜𝓾𝓼𝓲𝓬 𝓪𝓷𝓭 𝓽𝓸 𝓪𝓽𝓽𝓮𝓷𝓭 𝓜𝓮𝓮𝓽𝓾𝓹𝓼 𝓯𝓸𝓻 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 & 𝓒𝓸𝓷𝓯𝓮𝓻𝓮𝓷𝓬𝓮𝓼 𝓯𝓸𝓻 𝓝𝓮𝓽𝔀𝓸𝓻𝓴𝓲𝓷𝓰.
 
-<h3 align="center"><strong> Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</strong> </h3><hr>
+<h3 align="center"><strong> 𝓓𝓸 𝓠𝓾𝓪𝓵𝓲𝓽𝔂 ⭐. &nbsp;𝓐𝓬𝓽 𝓕𝓪𝓼𝓽 🏃🏻‍♂️. &nbsp;𝓢𝓱𝓲𝓹 𝓜𝓸𝓻𝓮 🚩</strong> </h3><hr>
 
 <img width="7%" align="right" alt="GIF" src="SocialLogo/linux.gif?raw=true"/>
 
 <details close>
-<summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
+<summary><b>𝓕𝓲𝓷𝓭 𝓸𝓾𝓽 𝔀𝓱𝓸 𝓲 💗?</b> <i>(𝓬𝓵𝓲𝓬𝓴 𝓽𝓸 𝓮𝔁𝓹𝓪𝓷𝓭!)</i></summary>
 
 ## :hammer_and_wrench: 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈 𝐼 𝓊𝓈𝑒:
 
@@ -71,7 +66,7 @@
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.icons8.com/color/240/000000/windows-10.png" alt="Windows" width="40" height="40"/> </a>
 
 ```
-I keep going dates with them 💗, best part no one hates me for going on date with others 😁.
+𝓘 𝓴𝓮𝓮𝓹 𝓰𝓸𝓲𝓷𝓰 𝓭𝓪𝓽𝓮𝓼 𝔀𝓲𝓽𝓱 𝓽𝓱𝓮𝓶 💗, 𝓫𝓮𝓼𝓽 𝓹𝓪𝓻𝓽 𝓷𝓸 𝓸𝓷𝓮 𝓱𝓪𝓽𝓮𝓼 𝓶𝓮 𝓯𝓸𝓻 𝓰𝓸𝓲𝓷𝓰 𝓸𝓷 𝓭𝓪𝓽𝓮 𝔀𝓲𝓽𝓱 𝓸𝓽𝓱𝓮𝓻𝓼 😁.
 ```
 
 ## 🎨✂ 𝒟𝑒𝓈𝒾𝑔𝓃 𝒶𝓃𝒹 𝒫𝒽𝑜𝓉𝑜 𝐸𝒹𝒾𝓉𝒾𝓃𝑔:
@@ -81,7 +76,7 @@ I keep going dates with them 💗, best part no one hates me for going on date w
 <a href="https://www.gimp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg" alt="Gimp" width="40" height="40"/></a>
 
 ```
-They find me attractive so do i 😉.
+𝓣𝓱𝓮𝔂 𝓯𝓲𝓷𝓭 𝓶𝓮 𝓪𝓽𝓽𝓻𝓪𝓬𝓽𝓲𝓿𝓮, 𝓼𝓸 𝓭𝓸 𝓲 😉.
 ```
 
 ## 🎹🎵 𝒜𝓊𝒹𝒾𝑜 𝒶𝓃𝒹 𝒱𝒾𝒹𝑒𝑜 𝐸𝒹𝒾𝓉𝒾𝓃𝑔:
@@ -92,7 +87,7 @@ They find me attractive so do i 😉.
 <a href="https://www.audacityteam.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/audacity.png" alt="Audacity" width="40" height="40"/></a>
 
 ```
-I am in 💗 with them 😁.
+𝓘 𝓪𝓶 𝓲𝓷 💗 𝔀𝓲𝓽𝓱 𝓽𝓱𝓮𝓶 😁.
 ```
 
 <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
