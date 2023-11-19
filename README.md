@@ -94,7 +94,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanmaheshwari144&show_icons=true&locale=en&layout=compact&theme=merko" alt="arpanmaheshwari144" />
 </p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=arpanmaheshwari144&show_icons=true&locale=en&theme=merko" alt="arpanmaheshwari144" /></p>
-![](https://leetcard.jacoblin.cool/maheshwariarpan828?theme=unicorn)
+<p>&nbsp;<img src="https://leetcard.jacoblin.cool/maheshwariarpan828?theme=unicorn" alt="arpanmaheshwari144" /></p>
 
 ## 𝒱𝒾𝒷𝒾𝓃𝑔 𝓉𝑜: 🎧
 
