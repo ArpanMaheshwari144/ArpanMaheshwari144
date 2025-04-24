@@ -67,10 +67,6 @@
 <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://img.icons8.com/color/240/amazon-web-services.png" alt="AWS" width="40" height="40"/>
 </a>
-<a href="https://www.papertrail.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/294720db-6d6d-464c-8d78-6c30d8bd6f83" alt="Papertrail" width="140" height="140"/>
-</a>
-
 
 ```
 𝓘 𝓴𝓮𝓮𝓹 𝓰𝓸𝓲𝓷𝓰 𝓭𝓪𝓽𝓮𝓼 𝔀𝓲𝓽𝓱 𝓽𝓱𝓮𝓶 💗, 𝓫𝓮𝓼𝓽 𝓹𝓪𝓻𝓽 𝓷𝓸 𝓸𝓷𝓮 𝓱𝓪𝓽𝓮𝓼 𝓶𝓮 𝓯𝓸𝓻 𝓰𝓸𝓲𝓷𝓰 𝓸𝓷 𝓭𝓪𝓽𝓮 𝔀𝓲𝓽𝓱 𝓸𝓽𝓱𝓮𝓻𝓼 😁.
