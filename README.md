@@ -64,6 +64,16 @@
 <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/emoji/48/000000/atom-symbol-emoji.png" alt="Atom" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.icons8.com/color/240/000000/windows-10.png" alt="Windows" width="40" height="40"/> </a>
+<a href="https://www.papertrail.com/" target="_blank">
+  <img src="https://img.icons8.com/fluency/240/log.png" alt="Papertrail" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.icons8.com/color/240/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+</a>
+<a href="https://www.elastic.co/kibana/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/240/external-kibana-a-data-visualization-plugin-for-elasticsearch-logo-color-tal-revivo.png" alt="Kibana" width="40" height="40"/>
+</a>
+
 
 ```
 𝓘 𝓴𝓮𝓮𝓹 𝓰𝓸𝓲𝓷𝓰 𝓭𝓪𝓽𝓮𝓼 𝔀𝓲𝓽𝓱 𝓽𝓱𝓮𝓶 💗, 𝓫𝓮𝓼𝓽 𝓹𝓪𝓻𝓽 𝓷𝓸 𝓸𝓷𝓮 𝓱𝓪𝓽𝓮𝓼 𝓶𝓮 𝓯𝓸𝓻 𝓰𝓸𝓲𝓷𝓰 𝓸𝓷 𝓭𝓪𝓽𝓮 𝔀𝓲𝓽𝓱 𝓸𝓽𝓱𝓮𝓻𝓼 😁.
