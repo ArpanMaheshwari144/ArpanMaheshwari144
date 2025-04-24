@@ -67,6 +67,7 @@
 <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://img.icons8.com/color/240/amazon-web-services.png" alt="AWS" width="40" height="40"/>
 </a>
+![papertrail-2-logo](https://github.com/user-attachments/assets/294720db-6d6d-464c-8d78-6c30d8bd6f83)
 
 
 ```
